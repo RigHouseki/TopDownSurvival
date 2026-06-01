@@ -49,7 +49,7 @@ The game is being created by a team of four people.
    git clone https://github.com/RigHouseki/TopDownSurvival.git
    ```
 2. **Open the project in Unreal Engine**
-3. **Open level 'XX'**
+3. **Open level 'L_MainMenu'**
 4. **Run the game!** 
 
 ---
