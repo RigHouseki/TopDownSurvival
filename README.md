@@ -64,7 +64,7 @@ The game is being created by a team of four people.
 
 ## Credits & Resources :books:
 - [Magnific](https://www.magnific.com/app)
-- ChatGPT – refining code and overall help with minor bugs  
+- ChatGPT – images in MainMenu and Controls submenu, refining code and overall help with minor bugs  
 
 ---
 
