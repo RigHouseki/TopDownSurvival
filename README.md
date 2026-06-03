@@ -11,7 +11,7 @@
 --- 
 
 ## Project Overview :rocket:
-**Farm of the dead** (top-down survival) is being developed as a final project for the **"Innovative Group Project"** course.  
+**Blocking Dead** (top-down survival) is being developed as a final project for the **"Innovative Group Project"** course.  
 It is a **single-player survival game** inspired by *Boxhead 2Play and Vampire Survivors*. It is developed in **Unreal Engine using Blueprints** with a focus on gameplay mechanics.
 
 The game is being created by a team of four people.
